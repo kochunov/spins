@@ -8,5 +8,5 @@ The SPINS project aims to identify deficits in social cognition amongst schizoph
 
 The data presented on this site is a curated selection of our ongoing analysis output. More detailed data, and their associated pipelines, are available on our Github. 
 
- * **Github:** [SPINS](https://github.com/TIGRLab/spins)
++ **Github:** [SPINS](https://github.com/TIGRLab/data-spins)
 
