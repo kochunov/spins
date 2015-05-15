@@ -1,8 +1,8 @@
 ---
-layout : default
-tagline : "I'm in ur dataz, QCing ur ADNIz"
-tags : [ADNI]
-group : navigation
+layout: page 
+tagline: "I'm in ur dataz, QCing ur ADNIz"
+tags: [ADNI]
+group: navigation
 ---
 {% include JB/setup %}
 
