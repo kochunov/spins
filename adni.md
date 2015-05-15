@@ -1,7 +1,7 @@
 ---
 layout: page 
-tagline: "I'm in ur dataz, QCing ur ADNIz"
-tags: [ADNI]
+description: "I'm in ur dataz, QCing ur ADNIz"
+title: 'ADNI' 
 group: navigation
 ---
 {% include JB/setup %}
