@@ -1,7 +1,7 @@
 ---
 layout: default
-tagline: "Testing highcharts"
-tags : [highcharts]
+tagline: "I'm in ur dataz, QCing ur fMRIz"
+tags : [fMRI]
 ---
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
