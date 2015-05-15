@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: post
 tagline: "Testing highcharts"
 tags : [highcharts]
 ---
