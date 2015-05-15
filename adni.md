@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: default 
 description: "I'm in ur dataz, QCing ur ADNIz"
 title: 'ADNI' 
 group: navigation
