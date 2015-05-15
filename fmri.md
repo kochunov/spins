@@ -1,11 +1,9 @@
 ---
-layout: page
-title: "Test"
-description: ""
+layout: default
+description: "I'm in ur dataz, QCing ur fMRIz"
+title: 'fMRI' 
 group: navigation
 ---
-{% include JB/setup %}
-
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
 <script type="text/javascript" src="http://code.highcharts.com/modules/data.js"></script>
