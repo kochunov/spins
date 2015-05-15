@@ -7,15 +7,13 @@ tags : [highcharts]
 <script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
 <script type="text/javascript" src="http://code.highcharts.com/modules/data.js"></script>
 
-<div style="margin: auto auto">
-<div id="container0" style="width: 600px; height: 400px; margin: 1em 1em;"></div>
-<div id="container1" style="width: 600px; height: 400px; margin: 1em 1em;"></div>
-<div id="container2" style="width: 600px; height: 400px; margin: 1em 1em;"></div>
-<div id="container3" style="width: 600px; height: 400px; margin: 1em 1em;"></div>
-<div id="container4" style="width: 600px; height: 400px; margin: 1em 1em;"></div>
-<div id="container5" style="width: 600px; height: 400px; margin: 1em 1em;"></div>
-<div id="container6" style="width: 600px; height: 400px; margin: 1em 1em;"></div>
-</div>
+<div id="container0" style="width: 600px; height: 400px; margin: auto auto;"></div>
+<div id="container1" style="width: 600px; height: 400px; margin: auto auto;"></div>
+<div id="container2" style="width: 600px; height: 400px; margin: auto auto;"></div>
+<div id="container3" style="width: 600px; height: 400px; margin: auto auto;"></div>
+<div id="container4" style="width: 600px; height: 400px; margin: auto auto;"></div>
+<div id="container5" style="width: 600px; height: 400px; margin: auto auto;"></div>
+<div id="container6" style="width: 600px; height: 400px; margin: auto auto;"></div>
 
 <script type="text/javascript">
 databr0s = [
