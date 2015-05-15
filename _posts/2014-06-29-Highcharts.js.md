@@ -21,9 +21,9 @@ Let's test some of javascprit libraries for infographics :) Start with [Highchar
 <script type="text/javascript">
 
 databr0s = [
-{  csvfile:  '{{production_url}}/assets/fmri_0.csv',  div:  "#container0",  x:  "Week Number",  title:  "Mean",               y: "mean"    },
-{  csvfile:  '{{production_url}}/assets/fmri_1.csv',  div:  "#container1",  x:  "Week Number",  title:  "Standard Deviation", y: "stddev"  },
-{  csvfile:  '{{production_url}}/assets/fmri_2.csv',  div:  "#container2",  x:  "Week Number",  title:  "% fluctuation",      y: "% fluctuation"  },
+{  csvfile:  '/spins/assets/fmri_0.csv',  div:  "#container0",  x:  "Week Number",  title:  "Mean",               y: "mean"    },
+{  csvfile:  '/spins/assets/fmri_1.csv',  div:  "#container1",  x:  "Week Number",  title:  "Standard Deviation", y: "stddev"  },
+{  csvfile:  '/spins/assets/fmri_2.csv',  div:  "#container2",  x:  "Week Number",  title:  "% fluctuation",      y: "% fluctuation"  },
 {  csvfile:  'fmri_3.csv',  div:  "#container3",  x:  "Week Number",  title:  "Drift",              y: "Drift"          },
 {  csvfile:  'fmri_4.csv',  div:  "#container4",  x:  "Week Number",  title:  "SNR",                y: "SNR"            },
 {  csvfile:  'fmri_5.csv',  div:  "#container5",  x:  "Week Number",  title:  "SFNR",               y: "SFNR"           },
