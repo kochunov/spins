@@ -8,15 +8,15 @@ group: navigation
 <script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
 <script type="text/javascript" src="http://code.highcharts.com/modules/data.js"></script>
 
-<div id="container0" style="width: 600px; height: 400px; margin: auto auto;"></div>
-<div id="container1" style="width: 600px; height: 400px; margin: auto auto;"></div>
-<div id="container2" style="width: 600px; height: 400px; margin: auto auto;"></div>
-<div id="container3" style="width: 600px; height: 400px; margin: auto auto;"></div>
-<div id="container4" style="width: 600px; height: 400px; margin: auto auto;"></div>
-<div id="container5" style="width: 600px; height: 400px; margin: auto auto;"></div>
-<div id="container6" style="width: 600px; height: 400px; margin: auto auto;"></div>
-<div id="container7" style="width: 600px; height: 400px; margin: auto auto;"></div>
-<div id="container8" style="width: 600px; height: 400px; margin: auto auto;"></div>
+<div id="container0" style="width: 300px; height: 400px; margin: auto auto;"></div>
+<div id="container1" style="width: 300px; height: 400px; margin: auto auto;"></div>
+<div id="container2" style="width: 300px; height: 400px; margin: auto auto;"></div>
+<div id="container3" style="width: 300px; height: 400px; margin: auto auto;"></div>
+<div id="container4" style="width: 300px; height: 400px; margin: auto auto;"></div>
+<div id="container5" style="width: 300px; height: 400px; margin: auto auto;"></div>
+<div id="container6" style="width: 300px; height: 400px; margin: auto auto;"></div>
+<div id="container7" style="width: 300px; height: 400px; margin: auto auto;"></div>
+<div id="container8" style="width: 300px; height: 400px; margin: auto auto;"></div>
 
 <script type="text/javascript">
 databr0s = [
