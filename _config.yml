@@ -118,6 +118,8 @@ JB :
   rss_path : /rss.xml
   about_path : /about.html
   search_path : /search.html
+  fmri_path : /fmri.html
+  adni_path : /adni.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.

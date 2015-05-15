@@ -1,10 +1,11 @@
 ---
-layout: default
-tagline: "I'm in ur dataz, QCing ur ADNIz"
+layout : default
+tagline : "I'm in ur dataz, QCing ur ADNIz"
 tags : [ADNI]
-group: navigation
-
+group : navigation
 ---
+{% include JB/setup %}
+
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
 <script type="text/javascript" src="http://code.highcharts.com/modules/data.js"></script>
