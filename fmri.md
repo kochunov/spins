@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 tagline: "Testing highcharts"
 tags : [highcharts]
 ---
