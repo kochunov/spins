@@ -5,12 +5,10 @@ tagline: "Testing highcharts"
 tags : [highcharts]
 ---
 Let's test some of javascprit libraries for infographics :) Start with [Highcharts.js](http://www.highcharts.com/).
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
-</script>
-<script type="text/javascript" src="http://code.highcharts.com/highcharts.js">
-</script>
-<script type="text/javascript" src="http://code.highcharts.com/modules/exporting.js">
-</script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
+<script type="text/javascript" src="http://code.highcharts.com/modules/data.js"></script>
+
 
 <!---<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto">-->
 <div id="container0" style="width: 600px; height: 400px; margin: 1em 1em; float: left;"></div>
@@ -23,9 +21,9 @@ Let's test some of javascprit libraries for infographics :) Start with [Highchar
 <script type="text/javascript">
 
 databr0s = [
-{  csvfile:  'fmri_0.csv',  div:  "#container0",  x:  "Week Number",  title:  "Mean",               y: "mean"    },
-{  csvfile:  'fmri_1.csv',  div:  "#container1",  x:  "Week Number",  title:  "Standard Deviation", y: "stddev"  },
-{  csvfile:  'fmri_2.csv',  div:  "#container2",  x:  "Week Number",  title:  "% fluctuation",      y: "% fluctuation"  },
+{  csvfile:  '{{production_url}}/assets/fmri_0.csv',  div:  "#container0",  x:  "Week Number",  title:  "Mean",               y: "mean"    },
+{  csvfile:  '{{production_url}}/assets/fmri_1.csv',  div:  "#container1",  x:  "Week Number",  title:  "Standard Deviation", y: "stddev"  },
+{  csvfile:  '{{production_url}}/assets/fmri_2.csv',  div:  "#container2",  x:  "Week Number",  title:  "% fluctuation",      y: "% fluctuation"  },
 {  csvfile:  'fmri_3.csv',  div:  "#container3",  x:  "Week Number",  title:  "Drift",              y: "Drift"          },
 {  csvfile:  'fmri_4.csv',  div:  "#container4",  x:  "Week Number",  title:  "SNR",                y: "SNR"            },
 {  csvfile:  'fmri_5.csv',  div:  "#container5",  x:  "Week Number",  title:  "SFNR",               y: "SFNR"           },
