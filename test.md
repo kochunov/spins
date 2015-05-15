@@ -2,6 +2,7 @@
 layout: page
 title: "Test"
 description: ""
+group: navigation
 ---
 {% include JB/setup %}
 
