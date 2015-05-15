@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About SPINS 
-header: About SPINS
+title: fMRI dashboard
+header: fMRI dashboard
 group: navigation
 ---
 
