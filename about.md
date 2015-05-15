@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About SPINS 
-header: About SPINS
+title: About 
+header: About
 group: navigation
 ---
 The SPINS project aims to identify deficits in social cognition amongst schizophrenia sub-populations. These groups are partcularly hard to help using current treatments, and insight into the underpinnings of this subtype of the disorder may lead to improved treatment outcomes.
